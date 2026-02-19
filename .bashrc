@@ -45,7 +45,7 @@ export PATH="$PATH:$HOME/.config/composer/vendor/bin"
 # -----------------------------------------------
 # PHP Artisan
 alias pa="php artisan"
-alias pas="php artisan serve --host=0.0.0.0 --port=8000"
+alias pas="php artisan serve"
 alias pam="php artisan migrate"
 alias pamf="php artisan migrate:fresh"
 alias pams="php artisan migrate:fresh --seed"
